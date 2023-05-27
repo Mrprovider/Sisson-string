@@ -24,5 +24,4 @@ this will work. Notably, user IDs have gone from 32 bit to 64, which will cause 
 
 ## Credits, and Thanks to
 
-* [coded by]
-(https://t.me/KUSHALHK) 
+<a href="https://t.me/KUSHALHK"><img src="https://img.shields.io/badge/Telegram-MR%20BOT%20DEVELOPER-blue.svg?logo=telegram"></a>
