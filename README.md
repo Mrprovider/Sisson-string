@@ -30,5 +30,5 @@ this will work. Notably, user IDs have gone from 32 bit to 64, which will cause 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Mrprovider/Sesson-string">
+<a href="https://heroku.com/deploy?template=https://github.com/Mrprovider/Sisson-string">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
